@@ -112,7 +112,7 @@ Real-time simple & compound interest calculator with zero external dependencies 
 <div align="center">
 
 | 🏅 Certification | 🏢 Issuer |
-|:---|:---|:---:|
+|:---|:---|
 | 🔐 Ethical Hacking | Internshala |
 | 🌐 Web Development | Exposys Data Labs |
 | 🛡️ Cybersecurity Fundamentals | Spypro Security Solutions Pvt. Ltd. |
