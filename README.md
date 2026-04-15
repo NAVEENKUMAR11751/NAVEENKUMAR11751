@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi there, I'm Naveen Kumar Reddy 👋
@@ -97,24 +98,36 @@ Real-time simple & compound interest calculator with zero external dependencies 
 
 ---
 
+
 ## 🏆 GitHub Trophies
+
+![Trophies](https://github-trophies.vercel.app/?username=NAVEENKUMAR11751&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAVEENKUMAR11751&theme=minimal&hide_border=true)
+
+## 📜 Certifications & Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=NAVEENKUMAR11751&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7)
+| 🏅 Certification | 🏢 Issuer |
+|:---|:---|:---:|
+| 🔐 Ethical Hacking | Internshala |
+| 🌐 Web Development | Exposys Data Labs |
+| 🛡️ Cybersecurity Fundamentals | Spypro Security Solutions Pvt. Ltd. |
+| 🔓 Ethical Hacking Workshop | Nikistian Media Pvt. Ltd. |
 
 </div>
 
----
+<div align="center">
 
-## 📜 Certifications
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Internshala-orange?style=flat-square&logo=security&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web%20Development-Exposys%20Data%20Labs-blue?style=flat-square&logo=html5&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Spypro%20Security-red?style=flat-square&logo=shield&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking%20Workshop-Nikistian%20Media-purple?style=flat-square&logo=hack-the-box&logoColor=white)
 
-| Certification | Issuer |
-|---|---|
-| Ethical Hacking | Internshala |
-| Web Development | Exposys Data Labs |
-| Cybersecurity Fundamentals | Spypro Security Solutions Pvt. Ltd. |
-| Ethical Hacking Workshop | Nikistian Media Pvt. Ltd. |
+</div>
 
 ---
 
