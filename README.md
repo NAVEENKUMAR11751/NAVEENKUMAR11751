@@ -101,7 +101,7 @@ Real-time simple & compound interest calculator with zero external dependencies 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=NAVEENKUMAR11751&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=NAVEENKUMAR11751&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
